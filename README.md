@@ -1,2 +1,2 @@
-# Project_Work_Spring2016
-Project works done as a part of coursework for Spring 2016
+# Project_Work_Spring2017
+Project works done as a part of coursework for Spring 2017
